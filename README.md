@@ -27,4 +27,4 @@ Este projeto realiza uma análise estatística completa sobre o desempenho de ti
 Projeto desenvolvido como parte da minha formação em **Análise e Desenvolvimento de Sistemas** na Estácio. O foco foi aplicar conhecimentos de SQL para análise de dados e lógica de programação em Python.
 
 ---
-Desenvolvido por [Bruno Santos](https://github.com/brunounder)
+Desenvolvido por [Bruno Silva](https://github.com/brunounder)
